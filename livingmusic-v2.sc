@@ -1,4 +1,4 @@
-// livingMusic 0.01 by Edwin Rietmeijer 2010
+// livingMusic 0.02 by Edwin Rietmeijer 2010
 
 (
 var dnaL, dnaR, modalSet, modalNote=0, listIndex=0, modalList, notes, ratios, dirNote=1, chngNote ;
